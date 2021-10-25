@@ -1,0 +1,20 @@
+{
+    "name": "heyinsource/heyintools",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeyinSource\\HeyinTools\\": "src/HeyinSource/HeyinTools"
+        }
+    },
+    "authors": [
+        {
+            "name": "lt",
+            "email": "751971678@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
